@@ -7,7 +7,7 @@ Summary:	Freeware Advanced Audio Decoder 2 plugins
 Summary(pl.UTF-8):	Wtyczki kodeka Freeware Advanced Audio Decoder 2
 Name:		faad2-plugins
 Version:	2.10.1
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Sound
 #Source0:	http://downloads.sourceforge.net/faac/%{name}-%{version}.tar.gz
