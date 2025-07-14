@@ -70,11 +70,11 @@ Wtyczka XMMS do plików AAC.
 
 %prep
 %setup -q -n faad2-%{version}
-%patch0 -p1
-%patch1 -p1
-%patch3 -p1
-%patch4 -p1
-%patch5 -p1
+%patch -P0 -p1
+%patch -P1 -p1
+%patch -P3 -p1
+%patch -P4 -p1
+%patch -P5 -p1
 
 %build
 %{__libtoolize}
