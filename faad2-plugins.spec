@@ -1,13 +1,13 @@
 #
 # Conditional build:
 %bcond_with	mpeg4ip		# MPEG4IP plugin
-%bcond_without	xmms		# XMMS plugin
+%bcond_with	xmms		# XMMS plugin
 
 Summary:	Freeware Advanced Audio Decoder 2 plugins
 Summary(pl.UTF-8):	Wtyczki kodeka Freeware Advanced Audio Decoder 2
 Name:		faad2-plugins
 Version:	2.10.1
-Release:	2
+Release:	4
 License:	GPL v2+
 Group:		Applications/Sound
 #Source0:	http://downloads.sourceforge.net/faac/%{name}-%{version}.tar.gz
